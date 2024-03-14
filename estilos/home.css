@@ -1,0 +1,6 @@
+@charset "utf-8";
+
+body{
+    background: blue url(../imagens/tela-home.jpg) top center no-repeat;
+    background-size: cover;
+}
